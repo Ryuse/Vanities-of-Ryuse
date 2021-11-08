@@ -1,1 +1,6 @@
 Ryuse's Vanities is a mod for your character to be able to look like some of Ryuse's characters
+
+~
+
+v0.0.1:
+	- Added MAID-chan's Wig
